@@ -1,0 +1,49 @@
+/*
+  accent1: #3A8EBA
+  accent2: #BA3A76
+*/
+
+body {
+    background-color: #3A8EBA;
+    padding: 20px;
+    font-size: 18px;
+
+}
+
+a {
+    color: #BA3A76;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #BA3A76;
+}
+
+h1, h2, h3 {
+    color: #BA3A76;
+}
+
+h1 {
+    text-align: center;
+}
+
+th, td {
+    /*border-color: #468BA6;
+    border-style: solid;
+    border-width: 3px;*/
+    border: 2px solid #BA3A76;
+    padding: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*
+block display
+specified width
+left and right margins must be equal - set both to auto
+*/
