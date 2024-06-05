@@ -1,0 +1,21 @@
+/*
+	navy blue: #000080
+	white: #FFFFFF
+	black: #000000
+	brown: #FDF0E0
+*/
+
+body {
+	background-color: #FDF0E0;
+	padding: 0 24px 36px 24px;
+}
+
+h1 {
+	color: #000000;
+	text-align: center;	
+} 
+
+li, table {
+	color: #000080;
+	font-size: 1.6em;
+}
